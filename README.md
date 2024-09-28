@@ -10,4 +10,6 @@ The code below is inspired by the one found on the Keras website in the topic "[
 
 [2] https://keras.io/examples/vision/masked_image_modeling/
 
+---
+
 Bagni Junior, W. (2024). *Masked-Autoencoder* (v1.0). GitHub. https://github.com/Phreyzer/Masked-Autoencoder/
